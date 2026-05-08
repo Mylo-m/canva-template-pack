@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "id": "landing_saas",
+      "name": "SaaS Landing Page",
+      "category": "landing",
+      "dimensions": "1200x800",
+      "canva_url": "https://www.canva.com/design/example-saas",
+      "export_formats": ["png", "pdf"]
+    },
+    {
+      "id": "pitch_deck_startup",
+      "name": "Startup Pitch Deck",
+      "category": "pitch",
+      "slides": 10,
+      "canva_url": "https://www.canva.com/design/example-pitch",
+      "export_formats": ["pdf", "pptx"]
+    },
+    {
+      "id": "social_instagram_5pack",
+      "name": "Instagram Post 5-Pack",
+      "category": "social",
+      "dimensions": "1080x1080",
+      "canva_url": "https://www.canva.com/design/example-social",
+      "export_formats": ["png"]
+    }
+  ]
+}
